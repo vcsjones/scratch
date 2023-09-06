@@ -2,6 +2,7 @@ name: check-service-labels
 
 permissions:
   pull-requests: read
+  checks: write
 
 on:
   pull_request:

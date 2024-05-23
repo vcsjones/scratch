@@ -1,5 +1,0 @@
-{
-  "image": "FROM mcr.microsoft.com/dotnet-buildtools/prereqs:cbl-mariner-2.0-android-docker",
-  "features": {
-  }
-}
